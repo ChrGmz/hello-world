@@ -10,6 +10,7 @@ Hello!
 'git config --global -l': lets you look at all the configurations including username, user.name and email you have listed.
 'git remote add origin <URLFROMGITHUB>': lets you add a remote repository for your local repository and allows you to name it. typically named origin. if forked from another user's repository can add the original remote repository by naming it upstream instead of origin.
 'git remote set-url <origin|upstream> <URLFROMGITHUB>': lets you set a different URL to associate with either origin or remote. Lets you correct a mistake if you entered the wrong URL.
+'git remote -v': displays remote connections and their URLs
 'git push origin master': sends everything to the designated remote repository and the designated branch name i.e. git push <remote name> <branch name>
 
 forking remote repositories on GitHub and cloning them locally:
