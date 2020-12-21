@@ -22,3 +22,4 @@ to clone the repo locally, copy the URL of your forked copy and enter as below. 
 'git branch -m <NEWBRANCHNAME>': lets you rename the current branch you're working on.
 'git checkout <BRANCHNAME>': lets you move onto the designated branch from the current branch.
 'git checkout -b <BRANCHNAME>': the -b command line option creates a new branch as designated by the last argument and moves onto the new branch.
+I am adding this extra line to use the git diff command..
