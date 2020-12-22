@@ -1,4 +1,4 @@
-Hello!
+Hello there!
 
 'git init': command to initialize tracking a repository/folder using Git
 'git status': tells you the status of the folder, lets you know if there are any changes or files added. returns an error if the folder/directory is not a Git repository. Also lets you know which branch you are working on.
@@ -23,3 +23,5 @@ to clone the repo locally, copy the URL of your forked copy and enter as below. 
 'git checkout <BRANCHNAME>': lets you move onto the designated branch from the current branch.
 'git checkout -b <BRANCHNAME>': the -b command line option creates a new branch as designated by the last argument and moves onto the new branch.
 I am adding this extra line to use the git diff command..
+
+added an additional line of code to merge into main branch.
